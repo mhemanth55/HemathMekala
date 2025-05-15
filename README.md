@@ -71,7 +71,7 @@ With over **8 years of expertise** in DevOps, cloud engineering, and platform au
 
 - 📧 **Email**: [mekalahemanth55@gmail.com](mailto:mekalahemanth55@gmail.com)  
 - 💼 **LinkedIn**: [linkedin.com/in/hemanthmekala](https://linkedin.com/in/hemanthmekala) *(create if not present)*  
-- 🌐 **GitHub**: [github.com/<your-github-handle>](https://github.com/mhemanth55/HemanthMekala)  
+- 🌐 **GitHub**: [github.com/mhemanth55/HemanthMekala](https://github.com/mhemanth55/HemathMekala)  
 - 📍 **Location**: India | Fluent in English, Telugu, Hindi  
 
 ---
