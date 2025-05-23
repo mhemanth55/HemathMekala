@@ -82,4 +82,4 @@ With over **8 years of expertise** in DevOps, cloud engineering, and platform au
 
 ---
 
-_This README serves as a professional showcase of my DevOps capabilities, experiences, and interests. Feel free to explore my repositories for scripts, tools, and infra templates._
+_This README serves as a professional showcase of my DevOps capabilities, experiences, and interests._
